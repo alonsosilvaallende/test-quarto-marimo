@@ -1,5 +1,12 @@
 project:
   type: website
+  preview:
+    port: 7777
+    browser: false
+
+execute:
+  enabled: true
+  echo: true
 
 website:
   title: "anything"
